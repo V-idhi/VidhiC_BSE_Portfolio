@@ -1,4 +1,4 @@
-﻿# IoT Weather Indicator/ Weather
+﻿# IoT Weather Indicator
  My project is weather Indicator that tells me the weather when the device is unlocked. This Indicator also plays music when unlocked.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
