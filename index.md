@@ -29,4 +29,4 @@ In progress
   
 My first milestone was creating a circuit using the ESP devkit v1, an LED, resistors,a breadboard, a button, and some wires. With the help of Arduino I was able to create an LED that lights up when a button is pressed. I learned how a breadboard works and how to connect wires to different pins.
 
-[![First Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+[![First Milestone](https://youtu.be/cwuy_r24nb8){:target="_blank" rel="noopener"}
