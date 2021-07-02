@@ -23,7 +23,7 @@ In progress
 
 In progress
 
-![Second Milestone]((https://user-images.githubusercontent.com/86121528/123469458-eac58500-d5a7-11eb-92cb-002482bc4159.png)(https://youtu.be/cwuy_r24nb8 "First Milestone"){:target="_blank" rel="noopener"}
+![Second Milestone][![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
