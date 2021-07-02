@@ -11,19 +11,19 @@
 
 In progress
 
-[![Final Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+![Final Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
 
 # Third Milestone
 
 In progress
 
-[![Third Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+![Third Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
 
 # Second Milestone
 
 In progress
 
-[![Second Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+![Second Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
 
 # First Milestone
   
