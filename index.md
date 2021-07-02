@@ -23,7 +23,7 @@ In progress
 
 In progress
 
-![Second Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+![Second Milestone]((https://user-images.githubusercontent.com/86121528/123469458-eac58500-d5a7-11eb-92cb-002482bc4159.png)(https://youtu.be/cwuy_r24nb8 "First Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
