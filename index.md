@@ -23,7 +23,7 @@ In progress
 
 In progress
 
-![Second Milestone][![Second Milestone](https://user-images.githubusercontent.com/86121528/123469458-eac58500-d5a7-11eb-92cb-002482bc4159.png)](https://youtu.be/cwuy_r24nb8 "First Milestone"){:target="_blank" rel="noopener"}
+![Second Milestone][![Second Milestone](https://user-images.githubusercontent.com/86121528/123469458-eac58500-d5a7-11eb-92cb-002482bc4159.png)](https://youtu.be/yU6LR78tUIo "First Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
