@@ -17,7 +17,7 @@ In progress
 
 In progress
 
-![Second Milestone][![Second Milestone](Screen Shot 2021-07-03 at 12.25.28 PM<img width="1430" alt="Screen Shot 2021-07-03 at 12 25 28 PM" src="https://user-images.githubusercontent.com/86121528/124649418-541d8180-de4d-11eb-931b-9d46a7868e7e.png">)](https://youtu.be/yU6LR78tUIo "First Milestone"){:target="_blank" rel="noopener"}
+![Second Milestone](Screen Shot 2021-07-03 at 12.25.28 PM<img width="1430" alt="Screen Shot 2021-07-03 at 12 25 28 PM" src="https://user-images.githubusercontent.com/86121528/124649418-541d8180-de4d-11eb-931b-9d46a7868e7e.png">)](https://youtu.be/yU6LR78tUIo "First Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
