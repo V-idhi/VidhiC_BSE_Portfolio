@@ -9,7 +9,7 @@
   
 # Final Milestone
 
-In progress
+My Final milestone was creating a circuit using an ESP devkit v1, an LED, resistors, a breadboard, IFTTT, and Adafruit. With the help of Arduino, IFTTT, and Adafruit, I was able to create an LED that lights based off of the weather. I used IFTTT and Adafruit to pull weather data and connected those platforms to my auduino so that an orangle LED lights up when the sky is clear, a green LED lights up when the sky is cloudy, and a blue LED lights up when it rains. 
 
 [![Final Milestone](https://user-images.githubusercontent.com/86121528/124652673-3c47fc80-de51-11eb-854a-e63c365d0074.png)](https://youtu.be/Clkozy3Gkfs "Final Milestone"){:target="_blank" rel="noopener"}
 
