@@ -1,11 +1,16 @@
 ﻿# IoT Weather Indicator
- My project is weather Indicator that tells me the weather when the device is unlocked. This Indicator also plays music when unlocked.
+ My project is weather Indicator that tells me the weather in my area.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Vidhi Chellani | Oakwood Highschool | mechanics / Design | Incoming Junior 
 
-![Headstone Image](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg)
+Reflection:
+
+I learned a lot during my project and in Bluestamp, and even though I went through many complications and problems, but I still had so much fun. I learned how to use Arduino, solder, and so much more. My project, in the end, didn't turn out exactly as I had hoped, but I was still able to make a lot of progress and gain new ideas and thought processes. Overall, even though my project wasn't a full success, I think that my learning was.
+# Demo Night
+
+[![Demo Night](https://user-images.githubusercontent.com/86121528/124654160-115ea800-de53-11eb-97b8-82bd00ed6356.png)](https://youtu.be/RbgkOBznEU0 "Demo Night"){:target="_blank" rel="noopener"}
   
 # Final Milestone
 
