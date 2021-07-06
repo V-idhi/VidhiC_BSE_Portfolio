@@ -6,7 +6,6 @@
 | Vidhi Chellani | Oakwood Highschool | mechanics / Design | Incoming Junior 
 
 Reflection:
-
 I learned a lot during my project and in Bluestamp, and even though I went through many complications and problems, but I still had so much fun. I learned how to use Arduino, solder, and so much more. My project, in the end, didn't turn out exactly as I had hoped, but I was still able to make a lot of progress and gain new ideas and thought processes. Overall, even though my project wasn't a full success, I think that my learning was.
 # Demo Night
 
