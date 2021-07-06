@@ -11,7 +11,7 @@
 
 In progress
 
-![Final Milestone](https://cdn5.vectorstock.com/i/1000x1000/73/54/blank-photo-icon-vector-29557354.jpg){:target="_blank" rel="noopener"}
+[![Final Milestone](https://user-images.githubusercontent.com/86121528/124652673-3c47fc80-de51-11eb-854a-e63c365d0074.png)](https://youtu.be/Clkozy3Gkfs "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 
