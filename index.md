@@ -15,7 +15,8 @@ In progress
 
 # Second Milestone
 
-In progress
+My Second milestone was creating a circuit using an ESP devkit v1, an LED, resistors, a breadboard, and Adafruit. With the help of Arduino and Adafruit, I was able to create an LED that lights up when a button is turned on. This milestone is pretty similar to my previous one, but instead of the button being on the circuit with the help of Adafruit, I was able to turn my LED on digitally.
+
 [![Second Milestone](https://user-images.githubusercontent.com/86121528/124649418-541d8180-de4d-11eb-931b-9d46a7868e7e.png)](https://youtu.be/yU6LR78tUIo "Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
